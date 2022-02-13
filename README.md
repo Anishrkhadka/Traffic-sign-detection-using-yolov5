@@ -1,7 +1,11 @@
 # Traffic sign detection using yolo v5
 
-The repo content jupyter notebook to train yolo v5 (https://github.com/ultralytics/yolov5) to detect the traffic signs. 
-- The model is able to detect 4 different types of objects such as traffic lights, stop, speed limit and crosswalk signs. 
+The repo contains jupyter notebook to train yolo v5 (https://github.com/ultralytics/yolov5) to detect the traffic signs. 
+- The model is able to detect 4 different types of objects 
+  - [x] Traffic lights
+  - [x] Stop
+  - [x] Speed limit and 
+  - [x] Crosswalk signs. 
 
 # Preview (Validation set)
 - ## Input
